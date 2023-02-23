@@ -20,7 +20,7 @@ package v1
 
 import (
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
-	metav1 "github.com/client-go/applyconfigurations/meta/v1"
+	metav1 "github.com/ecordell/applyconfigurations/meta/v1"
 )
 
 // PodDisruptionBudgetStatusApplyConfiguration represents an declarative configuration of the PodDisruptionBudgetStatus type for use

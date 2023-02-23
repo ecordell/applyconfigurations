@@ -21,7 +21,7 @@ package v1
 import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	types "k8s.io/apimachinery/pkg/types"
-	v1 "github.com/client-go/applyconfigurations/meta/v1"
+	v1 "github.com/ecordell/applyconfigurations/meta/v1"
 )
 
 // ScaleApplyConfiguration represents an declarative configuration of the Scale type for use

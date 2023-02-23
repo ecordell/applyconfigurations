@@ -19,8 +19,8 @@ limitations under the License.
 package v1
 
 import (
-	corev1 "github.com/client-go/applyconfigurations/core/v1"
-	v1 "github.com/client-go/applyconfigurations/meta/v1"
+	corev1 "github.com/ecordell/applyconfigurations/core/v1"
+	v1 "github.com/ecordell/applyconfigurations/meta/v1"
 )
 
 // DeploymentSpecApplyConfiguration represents an declarative configuration of the DeploymentSpec type for use

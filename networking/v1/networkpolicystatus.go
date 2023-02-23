@@ -19,7 +19,7 @@ limitations under the License.
 package v1
 
 import (
-	v1 "github.com/client-go/applyconfigurations/meta/v1"
+	v1 "github.com/ecordell/applyconfigurations/meta/v1"
 )
 
 // NetworkPolicyStatusApplyConfiguration represents an declarative configuration of the NetworkPolicyStatus type for use

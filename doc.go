@@ -27,7 +27,7 @@ example:
 
 	import (
 	     ...
-	     v1ac "github.com/client-go/applyconfigurations/autoscaling/v1"
+	     v1ac "github.com/ecordell/applyconfigurations/autoscaling/v1"
 	)
 	hpaApplyConfig := v1ac.HorizontalPodAutoscaler(autoscalerName, ns).
 	     WithSpec(v1ac.HorizontalPodAutoscalerSpec().

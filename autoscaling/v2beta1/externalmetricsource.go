@@ -20,7 +20,7 @@ package v2beta1
 
 import (
 	resource "k8s.io/apimachinery/pkg/api/resource"
-	v1 "github.com/client-go/applyconfigurations/meta/v1"
+	v1 "github.com/ecordell/applyconfigurations/meta/v1"
 )
 
 // ExternalMetricSourceApplyConfiguration represents an declarative configuration of the ExternalMetricSource type for use

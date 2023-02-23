@@ -20,7 +20,7 @@ package v1alpha1
 
 import (
 	admissionregistrationv1 "k8s.io/api/admissionregistration/v1"
-	v1 "github.com/client-go/applyconfigurations/admissionregistration/v1"
+	v1 "github.com/ecordell/applyconfigurations/admissionregistration/v1"
 )
 
 // NamedRuleWithOperationsApplyConfiguration represents an declarative configuration of the NamedRuleWithOperations type for use
